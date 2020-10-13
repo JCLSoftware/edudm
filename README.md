@@ -1,4 +1,4 @@
-# Algoritmos de aprendizado de máquina para aprimorar o processo de ensino-aprendizagem.
+# Aplicando algoritmos de aprendizado de máquina em dados educacionais.
 
 Este tutorial contém instruções básicas para utilização do código e dos dados deste repositório. Para aprofundamento sobre esse material, considere a leitura do trabalho proposto por Leão et al. (2020).
 
