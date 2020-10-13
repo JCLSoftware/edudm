@@ -1,15 +1,16 @@
 # Algoritmos de aprendizado de máquina para aprimorar o processo de ensino-aprendizagem.
 
-Este tutorial contém instruções básicas para utilização do código e dos dados deste repositório.
+Este tutorial contém instruções básicas para utilização do código e dos dados deste repositório. Para aprofundamento sobre esse material, considere a leitura do trabalho proposto por Leão et al. (2020).
 
 ## Algoritmos
   - Agrupamento
   - Classificação
   - Regressão
 ## Conjunto de dados
-  O conjunto de dados foi gerado com base em modelos computacionais para simular as propriedades como preferências e notas de alunos. Esses dados podem ser encontrados na pasta [data](https://github.com/JCLSoftware/edudm/edit/main/data/).
+  O conjunto de dados foi gerado com base em modelos computacionais para simular propriedades como preferências e notas de alunos. Esses dados podem ser encontrados na pasta [data](https://github.com/JCLSoftware/edudm/edit/main/data/).
   
 ## Instalação do python e Jupyter notebook
+[![Instalação do python e Jupyter notebook](https://i.ytimg.com/an_webp/gDxt7mncWys/mqdefault_6s.webp?du=3000&sqp=CKvel_wF&rs=AOn4CLBIV5-PZKJISUtXA1sS3BpVvn3JHw)](https://www.youtube.com/watch?v=gDxt7mncWys)
 ## Agrupando preferências
 ## Classificando preferências
 ## Estimando notas com regressão linear
