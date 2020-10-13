@@ -3,9 +3,9 @@
 Este tutorial contém instruções básicas para utilização do código e dos dados deste repositório. Para aprofundamento sobre esse material, considere a leitura do trabalho proposto por Leão et al. (2020).
 
 ## Algoritmos
-  - Agrupamento
-  - Classificação
-  - Regressão
+  - Agrupamento por K-Means.
+  - Classificação por árvore de decisão.
+  - Regressão linear.
 ## Conjunto de dados
   O conjunto de dados foi gerado com base em modelos computacionais para simular propriedades como preferências e notas de alunos. Esses dados podem ser encontrados na pasta [data](https://github.com/JCLSoftware/edudm/edit/main/data/).
   
