@@ -1,5 +1,7 @@
 # Aplicando algoritmos de aprendizado de máquina em dados educacionais.
 
+[![Apresentação](https://i.ytimg.com/vi_webp/srM08uiyme4/maxresdefault.webp)](https://www.youtube.com/watch?v=srM08uiyme4)
+
 Este tutorial contém instruções básicas para utilização do código e dos dados deste repositório. Para aprofundamento sobre esse material, considere a leitura do trabalho proposto por Leão et al. (2020).
 
 ## Algoritmos
