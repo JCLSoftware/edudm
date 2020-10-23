@@ -14,8 +14,13 @@ Este tutorial contém instruções básicas para utilização do código e dos d
 ## Primeiros passos: instalação do python e Jupyter notebook
 [![Instalação do python e Jupyter notebook](https://i9.ytimg.com/vi/DuVcG1rMU8E/mq2.jpg?sqp=CLT2yvwF&rs=AOn4CLD2TzparD_z0GJgbrMn9a-oDelqlA)](https://www.youtube.com/watch?v=DuVcG1rMU8E)
 ## Agrupando preferências
+[![K-Means](https://i9.ytimg.com/vi_webp/srM08uiyme4/mqdefault.webp?time=1603451400000&sqp=CIj0yvwF&rs=AOn4CLB-yVKs2k5j38k9_uMQd1JJ5MhjhA)](https://youtu.be/srM08uiyme4?t=390)
+
 ## Classificando preferências
+[![Árvore de decisão](https://i9.ytimg.com/vi_webp/srM08uiyme4/mqdefault.webp?time=1603451400000&sqp=CIj0yvwF&rs=AOn4CLB-yVKs2k5j38k9_uMQd1JJ5MhjhA)](https://youtu.be/srM08uiyme4?t=824)
+
 ## Estimando notas com regressão linear
+[![Árvore de decisão](https://i9.ytimg.com/vi_webp/srM08uiyme4/mqdefault.webp?time=1603451400000&sqp=CIj0yvwF&rs=AOn4CLB-yVKs2k5j38k9_uMQd1JJ5MhjhA)](https://youtu.be/srM08uiyme4?t=1003)
 
 Este material está disponível publicamente sob licença MIT. Ao utilizar o material, por favor cite:
 
