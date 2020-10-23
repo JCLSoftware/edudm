@@ -12,7 +12,7 @@ Este tutorial contém instruções básicas para utilização do código e dos d
   O conjunto de dados foi gerado com base em modelos computacionais para simular propriedades como preferências e notas de alunos. Esses dados podem ser encontrados na pasta [data](https://github.com/JCLSoftware/edudm/edit/main/data/).
   
 ## Primeiros passos: instalação do python e Jupyter notebook
-[![Instalação do python e Jupyter notebook](https://i9.ytimg.com/vi/DuVcG1rMU8E/mqdefault.jpg?time=1602635700000&sqp=CLSPmfwF&rs=AOn4CLC_PWKuDxcxO69Peb4hfVvM3ft0XA)](https://www.youtube.com/watch?v=DuVcG1rMU8E)
+[![Instalação do python e Jupyter notebook](https://i9.ytimg.com/vi/DuVcG1rMU8E/mq2.jpg?sqp=CLT2yvwF&rs=AOn4CLD2TzparD_z0GJgbrMn9a-oDelqlA)](https://www.youtube.com/watch?v=DuVcG1rMU8E)
 ## Agrupando preferências
 ## Classificando preferências
 ## Estimando notas com regressão linear
